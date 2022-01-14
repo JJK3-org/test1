@@ -23,7 +23,6 @@ jobs:
       - name: MyCommands
         run: |
           ls -l
-      - name: Run my action
-        uses: JJK3-org/test2@main
+
    
 
